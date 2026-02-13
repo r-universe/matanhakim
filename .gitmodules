@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "il.cbs.muni"]
+	path = il.cbs.muni
+	url = https://github.com/matanhakim/il.cbs.muni
 [submodule "rtlr"]
 	path = rtlr
 	url = https://github.com/matanhakim/rtlr
